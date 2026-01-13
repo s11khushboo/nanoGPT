@@ -8,4 +8,5 @@ following Andrej Karpathy’s "Let's build GPT from scratch" tutorial.
 - Understanding training loops
 - Experimenting with language models
 
+## Notes
 This is a learning project.
